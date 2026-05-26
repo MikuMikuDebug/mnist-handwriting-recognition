@@ -14,7 +14,7 @@
 - 依赖库：见 requirements.txt
 
 ## 快速开始
-
+公网部署链接：https://mnist-handwriting-recognition-mskolg6qheh2g4cpvwvpft.streamlit.app/
 ### 1. 安装依赖
 pip install -r requirements.txt
 或手动安装：
